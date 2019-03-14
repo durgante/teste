@@ -2,4 +2,6 @@ Este é o arquivo teste.
 
 Outra linha.
 
+Uma nova linha.
+
 Fim.
